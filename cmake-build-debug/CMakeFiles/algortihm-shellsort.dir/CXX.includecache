@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/simon/projects/algorithm/algorithm-shellsort/src_and_header/main.cpp
+iostream
+-
+shellsort.h
+/home/simon/projects/algorithm/algorithm-shellsort/src_and_header/shellsort.h
+
+/home/simon/projects/algorithm/algorithm-shellsort/src_and_header/shellsort.cpp
+shellsort.h
+/home/simon/projects/algorithm/algorithm-shellsort/src_and_header/shellsort.h
+
+/home/simon/projects/algorithm/algorithm-shellsort/src_and_header/shellsort.h
+vector
+-
+

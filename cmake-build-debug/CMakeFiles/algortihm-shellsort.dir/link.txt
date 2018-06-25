@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/algortihm-shellsort.dir/src_and_header/main.cpp.o CMakeFiles/algortihm-shellsort.dir/src_and_header/shellsort.cpp.o  -o algortihm-shellsort 

@@ -1,0 +1,3 @@
+/home/simon/projects/algorithm/algorithm-shellsort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/simon/projects/algorithm/algorithm-shellsort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/simon/projects/algorithm/algorithm-shellsort/cmake-build-debug/CMakeFiles/algortihm-shellsort.dir
